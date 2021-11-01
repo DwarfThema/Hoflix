@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/hoflix/static/js/main.ebc095c1.chunk.js",
+    "main.js.map": "/hoflix/static/js/main.ebc095c1.chunk.js.map",
+    "runtime-main.js": "/hoflix/static/js/runtime-main.8f45b66e.js",
+    "runtime-main.js.map": "/hoflix/static/js/runtime-main.8f45b66e.js.map",
+    "static/js/2.efe171be.chunk.js": "/hoflix/static/js/2.efe171be.chunk.js",
+    "static/js/2.efe171be.chunk.js.map": "/hoflix/static/js/2.efe171be.chunk.js.map",
+    "index.html": "/hoflix/index.html",
+    "static/js/2.efe171be.chunk.js.LICENSE.txt": "/hoflix/static/js/2.efe171be.chunk.js.LICENSE.txt",
+    "static/media/noImage.jpg": "/hoflix/static/media/noImage.467ba2df.jpg",
+    "static/media/noPosterSmall.png": "/hoflix/static/media/noPosterSmall.2dae8eb5.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8f45b66e.js",
+    "static/js/2.efe171be.chunk.js",
+    "static/js/main.ebc095c1.chunk.js"
+  ]
+}
