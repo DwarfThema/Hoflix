@@ -16,6 +16,7 @@ export default class extends React.Component {
       const {
         data: { results: nowPlaying },
       } = await moviesApi.nowPlaying();
+      console.log(nowPlaying);
       const {
         data: { results: upcoming },
       } = await moviesApi.upcoming();
@@ -40,7 +41,6 @@ export default class extends React.Component {
 
   render() {
     const { nowPlaying, upcoming, popular, error, loading } = this.state;
-    console.log(this.state);
     return (
       <HomePresenter
         nowPlaying={nowPlaying}
